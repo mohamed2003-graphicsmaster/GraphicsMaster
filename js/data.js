@@ -587,5 +587,365 @@ GM.WORKS = [
    "t": "Menus & Price Lists (4)",
    "d": "A burger restaurant menu in strong colors."
   }
+ },
+ {
+  "cat": "certificates",
+  "img": "assets/works/n16.jpg",
+  "thumb": "assets/thumbs/n16.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "شهادة تفوق (1)",
+   "d": "شهادة تفوق بتصميم حيوي مع مساحة لكتابة اسم الطالب."
+  },
+  "en": {
+   "t": "Excellence Certificate (1)",
+   "d": "A lively excellence certificate with space for the student's name."
+  }
+ },
+ {
+  "cat": "certificates",
+  "img": "assets/works/n15.jpg",
+  "thumb": "assets/thumbs/n15.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "شهادة تقدير (1)",
+   "d": "شهادة تقدير بتصميم جريء قابل للتعبئة."
+  },
+  "en": {
+   "t": "Appreciation Certificate (1)",
+   "d": "A bold appreciation certificate ready to fill in."
+  }
+ },
+ {
+  "cat": "certificates",
+  "img": "assets/works/n17.jpg",
+  "thumb": "assets/thumbs/n17.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "شهادة تقدير (2)",
+   "d": "شهادة تقدير لمعلمة بتصميم دافئ بطابع مصري."
+  },
+  "en": {
+   "t": "Appreciation Certificate (2)",
+   "d": "A warm Egyptian-themed appreciation certificate."
+  }
+ },
+ {
+  "cat": "certificates",
+  "img": "assets/works/n18.jpg",
+  "thumb": "assets/thumbs/n18.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "شهادة تفوق (2)",
+   "d": "شهادة تفوق بتصميم درامي وخطوط عربية مميزة."
+  },
+  "en": {
+   "t": "Excellence Certificate (2)",
+   "d": "A dramatic excellence certificate with expressive Arabic calligraphy."
+  }
+ },
+ {
+  "cat": "cards",
+  "img": "assets/works/n20.jpg",
+  "thumb": "assets/thumbs/n20.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "كارت شخصي – جيم ولياقة",
+   "d": "كارت بوجهين بألوان قوية وQR Code."
+  },
+  "en": {
+   "t": "Business Card – Gym & Fitness",
+   "d": "A two-sided card in strong colors with a QR code."
+  }
+ },
+ {
+  "cat": "cards",
+  "img": "assets/works/n22.jpg",
+  "thumb": "assets/thumbs/n22.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "كارت شخصي – كافيه (1)",
+   "d": "كارت أنيق لكافيه بخامات دافئة."
+  },
+  "en": {
+   "t": "Business Card – Coffee Shop (1)",
+   "d": "An elegant coffee-shop card with warm textures."
+  }
+ },
+ {
+  "cat": "cards",
+  "img": "assets/works/n23.jpg",
+  "thumb": "assets/thumbs/n23.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "كارت شخصي – كافيه (2)",
+   "d": "كارت بوجهين مع شعار وQR Code."
+  },
+  "en": {
+   "t": "Business Card – Coffee Shop (2)",
+   "d": "A two-sided card with logo and QR code."
+  }
+ },
+ {
+  "cat": "cards",
+  "img": "assets/works/n19.jpg",
+  "thumb": "assets/thumbs/n19.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "كارت شخصي – مصمم جرافيك",
+   "d": "كارت أسود وذهبي لمصمم جرافيك."
+  },
+  "en": {
+   "t": "Business Card – Graphic Designer",
+   "d": "A black-and-gold card for a graphic designer."
+  }
+ },
+ {
+  "cat": "cards",
+  "img": "assets/works/n21.jpg",
+  "thumb": "assets/thumbs/n21.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "كارت شخصي – صالون تجميل",
+   "d": "كارت وردي ناعم لصالون تجميل."
+  },
+  "en": {
+   "t": "Business Card – Beauty Salon",
+   "d": "A soft pink card for a beauty salon."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n07.jpg",
+  "thumb": "assets/thumbs/n07.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة عيد الأضحى (2)",
+   "d": "تهنئة بعيد الأضحى بتصميم جريء وفكرة مرحة."
+  },
+  "en": {
+   "t": "Eid Al-Adha Greeting (2)",
+   "d": "A bold, playful Eid Al-Adha greeting."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n03.jpg",
+  "thumb": "assets/thumbs/n03.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة رمضان كريم (1)",
+   "d": "تهنئة رمضانية بمدفع وفانوس بألوان دافئة."
+  },
+  "en": {
+   "t": "Ramadan Greeting (1)",
+   "d": "A Ramadan greeting with a cannon and lantern in warm colors."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n04.jpg",
+  "thumb": "assets/thumbs/n04.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة رمضان كريم (2)",
+   "d": "تهنئة رمضانية بشخصية كرتونية ومدفع."
+  },
+  "en": {
+   "t": "Ramadan Greeting (2)",
+   "d": "A Ramadan greeting with a cartoon character and cannon."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n05.jpg",
+  "thumb": "assets/thumbs/n05.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة رمضان (مأكولات)",
+   "d": "تهنئة رمضانية لمطعم بتصوير شهي."
+  },
+  "en": {
+   "t": "Ramadan Greeting (Food)",
+   "d": "A Ramadan greeting for a restaurant with appetizing visuals."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n02.jpg",
+  "thumb": "assets/thumbs/n02.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تصور إعلاني رمضاني",
+   "d": "فكرة إعلانية رمضانية بمدفع الإفطار."
+  },
+  "en": {
+   "t": "Ramadan Ad Concept",
+   "d": "A Ramadan ad concept built around the iftar cannon."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n00.jpg",
+  "thumb": "assets/thumbs/n00.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة مولود (1)",
+   "d": "تهنئة بمولود جديد بألوان هادئة وعناصر طفولية."
+  },
+  "en": {
+   "t": "Newborn Greeting (1)",
+   "d": "A newborn greeting with calm colors and playful elements."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n01.jpg",
+  "thumb": "assets/thumbs/n01.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة مولود (2)",
+   "d": "تهنئة مخصصة بمناسبة قدوم مولود جديد."
+  },
+  "en": {
+   "t": "Newborn Greeting (2)",
+   "d": "A personalized greeting for a new baby."
+  }
+ },
+ {
+  "cat": "greetings",
+  "img": "assets/works/n06.jpg",
+  "thumb": "assets/thumbs/n06.jpg",
+  "feat": false,
+  "fit": "contain",
+  "ar": {
+   "t": "تهنئة عيد الأضحى (1)",
+   "d": "تهنئة بعيد الأضحى بفكرة بصرية مبتكرة."
+  },
+  "en": {
+   "t": "Eid Al-Adha Greeting (1)",
+   "d": "An Eid Al-Adha greeting with an inventive visual idea."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n08.jpg",
+  "thumb": "assets/thumbs/n08.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم تاريخ (1)",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "History Notes Covers (1)",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n09.jpg",
+  "thumb": "assets/thumbs/n09.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم تاريخ (2)",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "History Notes Covers (2)",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n10.jpg",
+  "thumb": "assets/thumbs/n10.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم رياضيات",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "Math Notes Covers",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n11.jpg",
+  "thumb": "assets/thumbs/n11.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم تاريخ (3)",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "History Notes Covers (3)",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n12.jpg",
+  "thumb": "assets/thumbs/n12.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم لغة عربية",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "Arabic Notes Covers",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n13.jpg",
+  "thumb": "assets/thumbs/n13.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم وكتب (1)",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "Book & Notes Covers (1)",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
+ },
+ {
+  "cat": "covers",
+  "img": "assets/works/n14.jpg",
+  "thumb": "assets/thumbs/n14.jpg",
+  "feat": false,
+  "fit": "cover",
+  "ar": {
+   "t": "أغلفة ملازم تاريخ (4)",
+   "d": "أغلفة ملازم وكتب لمدرسين بصورة المدرس وعناصر بصرية مرتبطة بالمادة."
+  },
+  "en": {
+   "t": "History Notes Covers (4)",
+   "d": "Book and study-notes covers for teachers, featuring the teacher and subject-related visuals."
+  }
  }
 ];

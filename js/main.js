@@ -32,7 +32,7 @@ function art(cat, seed){
   }
   return `<svg viewBox="0 0 400 300" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${cat}">${bg}${b}</svg>`;
 }
-const workImg = (w,th) => w.img ? `<img src="${th&&w.thumb?w.thumb:w.img}" alt="${w[lang].t}" loading="lazy">` : art(w.cat,w.seed);
+const workImg = (w,th) => w.img ? (th&&w.thumb&&w.fit==="contain" ? `<span class="bgblur" style="background-image:url('${w.thumb}')"></span><img class="contain" src="${w.thumb}" alt="${w[lang].t}" loading="lazy">` : `<img src="${th&&w.thumb?w.thumb:w.img}" alt="${w[lang].t}" loading="lazy">`) : art(w.cat,w.seed);
 const svcVis = (s,seed) => { const w=G.WORKS.find(x=>x.cat===s.cat); return w ? workImg(w,true) : art(s.cat,seed); };
 const sampleNotice = () => G.WORKS.some(w=>w.sample) ? `<div class="notice">${T().sampleNote}</div>` : "";
 const skillsSection = () => `<section style="background:var(--bg2)"><div class="container"><div class="sec-head center rv"><span class="eyebrow">SKILLS</span><h2 class="sec-title">${lang==="ar"?"مهاراتي في التصميم":"Design Skills"}</h2></div><div class="skills">${[["Canva",90],["Picsart",80],["Photoshop",60]].map(([n,v])=>`<div class="skill rv"><div class="sk-top"><b>${n}</b><span>${v}%</span></div><div class="bar"><i style="--w:${v}%"></i></div></div>`).join("")}</div></div></section>`;

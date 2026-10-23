@@ -243,3 +243,7 @@ footer p{color:var(--g1);font-size:.93rem}
 /* marquee: new colored bar */
 .marquee{background:linear-gradient(90deg,#ff3d8b,#8b5cf6 50%,#2de2e6);border-block:0}
 .mq{color:#fff;-webkit-text-stroke:0;text-shadow:0 2px 0 rgba(7,7,20,.35)}
+
+/* portrait/square works inside 3:2 cards */
+.thumb .bgblur{position:absolute;inset:-14px;background-size:cover;background-position:center;filter:blur(16px) brightness(.55)}
+.card .thumb img.contain{position:relative;object-fit:contain}
